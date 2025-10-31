@@ -1,0 +1,43 @@
+.app-container {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  padding: 40px;  
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: rgb(57, 57, 57);
+}
+
+.results {
+  max-width: 60%;
+}
+
+.article {
+  background-color: lightblue;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  margin-bottom: 20px;
+}
+
+.article h2 {
+  margin-bottom: 8px;
+  color: rgb(57, 57, 57);
+}
+
+.article p {
+  color: gray;
+  line-height: 1.5;
+}
+
+mark {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+.posts {
+  text-align: center;
+  color: rgb(88, 88, 88);
+  font-style: italic;
+}
